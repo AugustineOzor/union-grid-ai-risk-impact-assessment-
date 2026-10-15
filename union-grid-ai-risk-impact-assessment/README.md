@@ -1,6 +1,7 @@
-<p align="center"><img src="assets/banner.jpg" alt="Project 04 — AI Risk & Impact Assessment — Union Grid Energy" width="100%"></p>
-
 # AI Risk Assessment & AI Impact Assessment
+
+<img width="1600" height="520" alt="union-grid-ai-risk-impact-assessment-banner" src="https://github.com/user-attachments/assets/cc824509-5824-43a7-8206-012aeaa0514e" />
+
 ### Union Grid Energy — Assessing a safety-critical AI system two different ways, for two different audiences
 
 ![Domain](https://img.shields.io/badge/Domain-AI%20Risk-faaa28) ![Sector](https://img.shields.io/badge/Sector-Electric%20Utility-1f2a44) ![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-MAP%20%7C%20MEASURE%20%7C%20MANAGE-1f2a44) ![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Art.%209%20(reference)-1f2a44) ![Status](https://img.shields.io/badge/Status-Complete-2ea043)
@@ -108,5 +109,3 @@ Union Grid Energy and GridSense are fictional. Figures are illustrative.
 
 ---
 
-**Augustine Ozor** — AI Governance & Cybersecurity GRC · Doha, Qatar
-[github.com/AugustineOzor](https://github.com/AugustineOzor) · augustineozor@gmail.com
